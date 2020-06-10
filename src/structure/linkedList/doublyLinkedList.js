@@ -87,7 +87,7 @@ export class DoublyLinkedList {
 				this.tail = current.prev
 				this.tail.next = null
 			} else {
-				while (i++ < position) {
+				while (index++ < position) {
 					previous = current
 					current = current.next
 				}

@@ -1,5 +1,4 @@
 // require('./structure/stack')
 // require('./structure/queue')
 // require('./structure/linkedList')
-
-require('./structure/hashTable')
+require('./structure/tree/index')
